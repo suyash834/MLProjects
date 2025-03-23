@@ -1,4 +1,4 @@
 numpy
 pandas
 seaborn
--e .
+-e . ## we use this to connect to setup file
