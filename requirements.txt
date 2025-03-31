@@ -1,4 +1,7 @@
 numpy
 pandas
 seaborn
+matplotlib
+catboost
+xgboost
 -e . ## we use this to connect to setup file
